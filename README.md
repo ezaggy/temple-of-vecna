@@ -33,4 +33,4 @@ This tome is a direct fork of "Aren's Copy of the Non-SRD Spells." Which include
 - Acquisitions Incorporated *
 - Astral Adventurer's Guide
 
-* May have a *few* spells. Both lists are potentially inaccurate.
+\* May have a *few* spells. Both lists are potentially inaccurate.
